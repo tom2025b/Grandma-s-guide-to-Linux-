@@ -1,4 +1,41 @@
 # Grandpa's Guide to Linux
+
+> A free, friendly book teaching Linux to absolute beginners — written like a conversation over a cup of tea.
+
+**No jargon. No condescension. No blue screens of death.**
+
+This is a complete, gently-humorous introduction to Linux for people who never thought computers were "for them." Written from the perspective of a grandpa teaching his wife Dot (age 73) to use Linux — and succeeding.
+
+## What's Inside
+
+| Chapter | Topic |
+|---------|-------|
+| Introduction | Why Linux Won't Bite You |
+| Chapter 1 | Getting Comfortable — Your New Desktop |
+| Chapter 2 | Files and Folders (It's Just Like the Filing Cabinet in the Den) |
+| Chapter 3 | Copy, Paste, Move, Delete — The Four Magic Tricks |
+| Chapter 4 | Keeping Your Computer Healthy — Updates |
+| Chapter 5 | SSH — Talking to Computers From Across the Room (or the World) |
+| Chapter 6 | Installing Apps — Like a Shopping Cart, But Free |
+| Chapter 7 | When the Internet Goes Grumpy — Fixing Wi-Fi |
+| Chapter 8 | Backups — Because Accidents Happen to Everyone |
+| Chapter 9 | Passwords — Keeping the Bad Guys Out of Your Business |
+| Chapter 10 | What If Your Grandkid Laughs at You? |
+| Bonus | Grandpa's Terminal Goodies — 20 Fun Commands and Scripts |
+
+## Who Is This For?
+
+- Absolute beginners who find most Linux guides intimidating
+- Older adults switching from Windows or Mac
+- Anyone who wants a warm, patient introduction to the terminal
+- Grandkids who want to gift their grandparents something useful
+
+## How to Read It
+
+Scroll down — the full book is right here in this page. Grab a cup of tea first.
+
+---
+
 ## Teaching Grandma (and You) Without the Tears
 
 ---
